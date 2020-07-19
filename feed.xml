@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Harpsichord Knight</title>
+    <link href="https://harpsichordknight.github.io/website/feed.xml" rel="self" />
+    <link href="https://harpsichordknight.github.io/website" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>Harpsichord Knight</name>
+    </author>
+    <id>https://harpsichordknight.github.io/website</id>
+
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>Harpsichord Knight</name>
+        </author>
+        <link href="https://harpsichordknight.github.io/website/hello-world.html"/>
+        <id>https://harpsichordknight.github.io/website/hello-world.html</id>
+
+        <updated>2020-07-19T23:47:43+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
