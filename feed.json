@@ -13,13 +13,15 @@
             "id": "https://harpsichordknight.github.io/website/hello-world.html",
             "url": "https://harpsichordknight.github.io/website/hello-world.html",
             "title": "Hello World!",
+            "summary": "Testing 123 Does this work? I think so!",
+            "content_html": "<p>Testing 123</p>\n<p>Does this work?</p>\n<p>I think so!</p>",
             "author": {
                 "name": "Harpsichord Knight"
             },
             "tags": [
             ],
-            "date_published": "2020-07-19T23:47:43+08:00",
-            "date_modified": "2020-07-19T23:47:43+08:00"
+            "date_published": "2020-07-19T23:50:42+08:00",
+            "date_modified": "2020-07-19T23:50:42+08:00"
         }
     ]
 }

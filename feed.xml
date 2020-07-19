@@ -17,8 +17,18 @@
         <link href="https://harpsichordknight.github.io/website/hello-world.html"/>
         <id>https://harpsichordknight.github.io/website/hello-world.html</id>
 
-        <updated>2020-07-19T23:47:43+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-07-19T23:50:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Testing 123 Does this work? I think so!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Testing 123</p>
+<p>Does this work?</p>
+<p>I think so!</p>
+            ]]>
+        </content>
     </entry>
 </feed>
